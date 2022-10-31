@@ -1,12 +1,17 @@
 ## SOLOMON MUOGHARA
 
 ### INTEREST:
-Data analysis, data science, data engineering, software and website development with Python, Machine Learning.
+- Data Analysis
+- Data Science 
+- Data Engineering 
+- Software and Website development with Python
+- Machine Learning
+- Object Oriented Programming
 
 ### EDUCATION
 - **BSc Computer Science** - National Open University Of Nigeria
 
-- **Data Analyst** - UDACITY
+- **Nanodegree - Data Analyst** - UDACITY
 
 - **Course - Machine Learning** - UDACITY
 
