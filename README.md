@@ -11,7 +11,7 @@
 ### EDUCATION
 - **BSc Computer Science** - National Open University Of Nigeria
 
-- **Nanodegree - Data Analyst** - UDACITY
+- **Nanodegree - ALX-T Data Analyst** - UDACITY
 
 - **Course - Machine Learning** - UDACITY
 
