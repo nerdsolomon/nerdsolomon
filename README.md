@@ -13,12 +13,18 @@
 
 - **Nanodegree - ALX-T Data Analyst** - UDACITY
 
+- **Nanodegree - AWS Machine Learning Foundation 2022** - UDACITY
+
 - **Course - Machine Learning** - UDACITY
 
-- **Course - AWS Machine Learning Foundation 2022** - UDACITY
+- **Course - Version Control With Git** - Udacity 
+
+- **Course - Linux Command Line Basics** - Udacity
+
+- **Course - Intro In Data Analysis** - Udacity
 
 ### AVAILABLE FOR:
 - Project collaboration
-- Part-time job (Remote)
-- Full-time job (Remote)
-- Freelance jobs
+- Part-time job (Remote Preferred)
+- Full-time job (Remote Preferred)
+- Freelance jobs (Remote Preferred) 
