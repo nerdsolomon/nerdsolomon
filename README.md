@@ -15,7 +15,7 @@
 
 - **Course - Machine Learning** - UDACITY
 
-- **Course - AWS Machine Learning Foundation 2022** - UDACITY
+- **Nanodegree - AWS Machine Learning Foundation 2022** - UDACITY
 
 ### AVAILABLE FOR:
 - Project collaboration
