@@ -4,7 +4,7 @@
 - Data Analysis
 - Data Science 
 - Data Engineering 
-- Software and Website development with Python
+- Software and Website development
 - Machine Learning
 - Object Oriented Programming
 
