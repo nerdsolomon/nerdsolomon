@@ -4,7 +4,7 @@
 - Data Analysis
 - Data Science 
 - Data Engineering 
-- Software and Website development
+- Software Engineering 
 - Machine Learning
 - Object Oriented Programming
 
