@@ -6,21 +6,14 @@
 - Data Engineering 
 - Software Engineering 
 - Machine Learning
-- Object Oriented Programming
 
 ### EDUCATION
 - **BSc Computer Science** - National Open University Of Nigeria
-
 - **Nanodegree - ALX-T Data Analyst** - UDACITY
-
 - **Nanodegree - AWS Machine Learning Foundation 2022** - UDACITY
-
 - **Course - Machine Learning** - UDACITY
-
 - **Course - Linux Command Line Basics** - UDACITY
-
 - **Course - Intro to Data Analysis** - UDACITY
-
 - **Course - Version Control With Git** - UDACITY
 
 ### AVAILABLE FOR:
